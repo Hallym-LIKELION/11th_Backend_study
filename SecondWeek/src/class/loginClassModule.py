@@ -1,5 +1,4 @@
 import json
-import os
 
 DATABASE_PATH = "../database/database.json"
 LOGIN_INFO_PATH = "../database/loginInfo.json"
