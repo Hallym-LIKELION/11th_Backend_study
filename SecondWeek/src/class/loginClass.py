@@ -1,5 +1,4 @@
 from loginClassModule import LoginClassModule
-from loginClassModule import AccessRoute
 
 DATABASE_PATH = "../database/database.json"
 LOGIN_INFO_PATH = "../database/loginInfo.json"
